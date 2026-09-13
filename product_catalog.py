@@ -55,7 +55,7 @@ recommendations = recommend_products(products_with_sets, customer_preferences)
 print("\nRecommended Products:")
 for name, score in recommendations:
     print(f"- {name} ({score} match(es))")
-
+ 
 
 # ================================
 # DESIGN MEMO (200–300 words)
