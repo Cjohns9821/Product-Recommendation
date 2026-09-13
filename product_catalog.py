@@ -1,7 +1,7 @@
 # ================================
 # PRODUCT RECOMMENDATION ENGINE
 # ================================
-
+ 
 products = [
     {"name": "Eco Water Bottle", "tags": ["eco-friendly", "durable", "recyclable"]},
     {"name": "Trail Backpack", "tags": ["durable", "water-resistant", "lightweight"]},
